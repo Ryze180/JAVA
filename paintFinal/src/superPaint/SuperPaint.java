@@ -19,7 +19,9 @@ import java.awt.Font;
 import javax.swing.JCheckBox;
 import javax.swing.DefaultComboBoxModel;
 import superPaint.SuperPaint.TipoFigura;
-
+/*
+*@author Anas Tahiri
+*/
 public class SuperPaint extends JFrame {
 
 	static enum TipoFigura{LINEA, RECTANGULO, OVALO}
