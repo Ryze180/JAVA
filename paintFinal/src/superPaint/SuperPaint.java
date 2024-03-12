@@ -20,7 +20,7 @@ import javax.swing.JCheckBox;
 import javax.swing.DefaultComboBoxModel;
 import superPaint.SuperPaint.TipoFigura;
 /*
-*@author Anas Tahiri
+*@author Anas
 */
 public class SuperPaint extends JFrame {
 
